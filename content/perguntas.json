@@ -1,0 +1,150 @@
+[
+  {
+    "codigo": "P01",
+    "bloco": "A",
+    "pt": "Passaporte, por favor.",
+    "en": "Passport, please.",
+    "audio": "P01.mp3",
+    "pronuncia": "PÉS-pórt, pliz",
+    "dica": "Tenha o passaporte na mão antes de chegar à cabine. Um cumprimento curto já mostra calma.",
+    "cenarios": {
+      "unico": [
+        {
+          "nivel": 1,
+          "en": "Here you go.",
+          "pt": "Aqui está.",
+          "audio": "R01-1.mp3",
+          "pronuncia": "rrír iú gôu"
+        },
+        {
+          "nivel": 2,
+          "en": "Good afternoon. Here is my passport.",
+          "pt": "Boa tarde. Aqui está o meu passaporte.",
+          "audio": "R01-2.mp3",
+          "pronuncia": "gúd éf-ter-NUN. rrír iz mái PÉS-pórt"
+        },
+        {
+          "nivel": 3,
+          "en": "Good afternoon, officer. Here is my passport. I also have my return ticket on my phone.",
+          "pt": "Boa tarde, oficial. Aqui está o meu passaporte. Também tenho a minha passagem de volta no celular.",
+          "audio": "R01-3.mp3",
+          "pronuncia": "gúd éf-ter-NUN, Ó-fi-sêr. rrír iz mái PÉS-pórt. ái ÓL-sôu rrév mái ri-TÊRN TI-quit ón mái fôun"
+        }
+      ]
+    }
+  },
+  {
+    "codigo": "P02",
+    "bloco": "A",
+    "pt": "Qual é o motivo da sua visita?",
+    "en": "What is the purpose of your visit?",
+    "audio": "P02.mp3",
+    "pronuncia": "uót iz dhê PÊR-pês óv iór VI-zit?",
+    "dica": "Responda com o motivo verdadeiro da sua viagem.",
+    "cenarios": {
+      "turismo": [
+        {
+          "nivel": 1,
+          "en": "Tourism.",
+          "pt": "Turismo.",
+          "audio": "R02-1.mp3",
+          "pronuncia": "TÚ-ri-zêm"
+        },
+        {
+          "nivel": 2,
+          "en": "I'm here on vacation.",
+          "pt": "Estou aqui de férias.",
+          "audio": "R02-2.mp3",
+          "pronuncia": "áim rrír ón vei-KÊI-shên"
+        },
+        {
+          "nivel": 3,
+          "en": "I'm here on vacation. I'll visit the theme parks in Orlando.",
+          "pt": "Estou aqui de férias. Vou visitar os parques temáticos em Orlando.",
+          "audio": "R02-3.mp3",
+          "pronuncia": "áim rrír ón vei-KÊI-shên. áil VI-zit dhê thîm párks in or-LÉN-dôu"
+        }
+      ],
+      "familia": [
+        {
+          "nivel": 1,
+          "en": "To visit family.",
+          "pt": "Visitar a família.",
+          "audio": "R02-4.mp3",
+          "pronuncia": "tu VI-zit FÉ-mi-li"
+        },
+        {
+          "nivel": 2,
+          "en": "I'm here to visit my sister.",
+          "pt": "Estou aqui para visitar a minha irmã.",
+          "audio": "R02-5.mp3",
+          "pronuncia": "áim rrír tu VI-zit mái SIS-tér"
+        },
+        {
+          "nivel": 3,
+          "en": "I'm here to visit my sister in Miami. I'll stay with her for ten days.",
+          "pt": "Estou aqui para visitar a minha irmã em Miami. Vou ficar com ela por dez dias.",
+          "audio": "R02-6.mp3",
+          "pronuncia": "áim rrír tu VI-zit mái SIS-tér in mai-É-mi. áil stêi uídh rrêr fór tên dêiz"
+        }
+      ],
+      "trabalho": [
+        {
+          "nivel": 1,
+          "en": "Business.",
+          "pt": "Negócios.",
+          "audio": "R02-7.mp3",
+          "pronuncia": "BIZ-nês"
+        },
+        {
+          "nivel": 2,
+          "en": "I'm here for a business meeting.",
+          "pt": "Estou aqui para uma reunião de negócios.",
+          "audio": "R02-8.mp3",
+          "pronuncia": "áim rrír fór a BIZ-nês MÍ-ting"
+        },
+        {
+          "nivel": 3,
+          "en": "I'm here for a business meeting with a client. I'll go back to Brazil after the meeting.",
+          "pt": "Estou aqui para uma reunião de negócios com um cliente. Volto para o Brasil depois da reunião.",
+          "audio": "R02-9.mp3",
+          "pronuncia": "áim rrír fór a BIZ-nês MÍ-ting uídh a CLÁI-ênt. áil gôu béc tu bra-ZIL ÉF-ter dhê MÍ-ting"
+        }
+      ]
+    }
+  },
+  {
+    "codigo": "P03",
+    "bloco": "A",
+    "pt": "Quanto tempo você vai ficar?",
+    "en": "How long will you be staying?",
+    "audio": "P03.mp3",
+    "pronuncia": "rráu lóng uíl iú bi STÊI-ing?",
+    "dica": "Diga o mesmo número de dias da sua passagem de volta. Data e número claros passam segurança.",
+    "cenarios": {
+      "unico": [
+        {
+          "nivel": 1,
+          "en": "Ten days.",
+          "pt": "Dez dias.",
+          "audio": "R03-1.mp3",
+          "pronuncia": "tên dêiz"
+        },
+        {
+          "nivel": 2,
+          "en": "I'll be here for ten days.",
+          "pt": "Vou ficar aqui por dez dias.",
+          "audio": "R03-2.mp3",
+          "pronuncia": "áil bi rrír fór tên dêiz"
+        },
+        {
+          "nivel": 3,
+          "en": "I'll be here for ten days, until March thirteenth. My return ticket is already booked.",
+          "pt": "Vou ficar dez dias, até 13 de março. A minha passagem de volta já está comprada.",
+          "audio": "R03-3.mp3",
+          "pronuncia": "áil bi rrír fór tên dêiz, ân-TIL márch thêr-TÍNth. mái ri-TÊRN TI-quit iz ól-RÉ-di búkt"
+        }
+      ]
+    }
+  }
+]

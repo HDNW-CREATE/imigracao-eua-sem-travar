@@ -1,0 +1,1135 @@
+{
+  "titulo": "Leia como se Fala",
+  "subtitulo": "A pronúncia escrita em português de todas as perguntas e respostas do guia principal. Leia em voz alta, mesmo sem saber inglês.",
+  "paraQueServe": "Você tem as frases, mas trava na hora de falar? Aqui cada frase em inglês vem com como ela soa, escrita do jeito que um brasileiro lê. Combine com os áudios: ouça, leia a pronúncia e repita.",
+  "legenda": [
+    {
+      "simbolo": "MAIÚSCULAS",
+      "explicacao": "a sílaba mais forte.",
+      "exemplo": "PÉS-pórt"
+    },
+    {
+      "simbolo": "rr",
+      "explicacao": "o “H” do inglês: um sopro de ar, nunca mudo.",
+      "exemplo": "rrír (here)"
+    },
+    {
+      "simbolo": "dh",
+      "explicacao": "o “TH” de the, with: ponta da língua entre os dentes, soltando som.",
+      "exemplo": "dhê"
+    },
+    {
+      "simbolo": "th",
+      "explicacao": "o “TH” de thirteenth, thousand: igual, mas só com ar, sem som.",
+      "exemplo": "THÁU-zênd"
+    },
+    {
+      "simbolo": "r no meio e no fim",
+      "explicacao": "“r” suave, sem vibrar a língua.",
+      "exemplo": "SIS-tér"
+    },
+    {
+      "simbolo": "ê, â",
+      "explicacao": "sons neutros, curtos e relaxados.",
+      "exemplo": ""
+    },
+    {
+      "simbolo": "ái, êi, ôu, iú",
+      "explicacao": "ditongos: ái (my), êi (day), ôu (go), iú (you).",
+      "exemplo": ""
+    }
+  ],
+  "observacaoLegenda": "Não precisa ficar perfeito. O oficial entende frases simples e faladas devagar.",
+  "dicas": [
+    {
+      "titulo": "Fale devagar.",
+      "texto": "Pronúncia média e devagar vale mais que pronúncia boa e correndo."
+    },
+    {
+      "titulo": "Forte e fraco.",
+      "texto": "Estique a sílaba em MAIÚSCULA e “engula” as outras."
+    },
+    {
+      "titulo": "Termine a palavra.",
+      "texto": "Dizer o “s” de days, nights, bags faz diferença."
+    }
+  ],
+  "oficial": [
+    {
+      "id": "OF-1",
+      "en": "Next, please.",
+      "pt": "Próximo, por favor.",
+      "pronuncia": "nékst, pliz"
+    },
+    {
+      "id": "OF-2",
+      "en": "Look at the camera.",
+      "pt": "Olhe para a câmera.",
+      "pronuncia": "luc ét dhê CÉ-mê-ra"
+    },
+    {
+      "id": "OF-3",
+      "en": "Place your fingers on the scanner.",
+      "pt": "Coloque os dedos no leitor.",
+      "pronuncia": "plêis iór FÍN-gérs ón dhê SCÉ-nêr"
+    },
+    {
+      "id": "OF-4",
+      "en": "Welcome to the United States.",
+      "pt": "Bem-vindo(a) aos Estados Unidos.",
+      "pronuncia": "UÉL-câm tu dhê iu-NÁI-tid stêits"
+    },
+    {
+      "id": "OF-5",
+      "en": "Have a good day.",
+      "pt": "Tenha um bom dia.",
+      "pronuncia": "rrév a gúd dêi"
+    },
+    {
+      "id": "OF-6",
+      "en": "Thank you.",
+      "pt": "Obrigado(a).",
+      "pronuncia": "THÉN-kiu"
+    }
+  ],
+  "perguntas": [
+    {
+      "codigo": "P01",
+      "en": "Passport, please.",
+      "pronuncia": "PÉS-pórt, pliz",
+      "audio": "P01.mp3",
+      "respostas": [
+        {
+          "id": "R01-1",
+          "en": "Here you go.",
+          "pronuncia": "rrír iú gôu",
+          "audio": "R01-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R01-2",
+          "en": "Good afternoon. Here is my passport.",
+          "pronuncia": "gúd éf-ter-NUN. rrír iz mái PÉS-pórt",
+          "audio": "R01-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R01-3",
+          "en": "Good afternoon, officer. Here is my passport. I also have my return ticket on my phone.",
+          "pronuncia": "gúd éf-ter-NUN, Ó-fi-sêr. rrír iz mái PÉS-pórt. ái ÓL-sôu rrév mái ri-TÊRN TI-quit ón mái fôun",
+          "audio": "R01-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P02",
+      "en": "What is the purpose of your visit?",
+      "pronuncia": "uót iz dhê PÊR-pês óv iór VI-zit?",
+      "audio": "P02.mp3",
+      "respostas": [
+        {
+          "id": "R02-1",
+          "en": "Tourism.",
+          "pronuncia": "TÚ-ri-zêm",
+          "audio": "R02-1.mp3",
+          "nivel": 1,
+          "grupo": "Turismo"
+        },
+        {
+          "id": "R02-2",
+          "en": "I'm here on vacation.",
+          "pronuncia": "áim rrír ón vei-KÊI-shên",
+          "audio": "R02-2.mp3",
+          "nivel": 2,
+          "grupo": "Turismo"
+        },
+        {
+          "id": "R02-3",
+          "en": "I'm here on vacation. I'll visit the theme parks in Orlando.",
+          "pronuncia": "áim rrír ón vei-KÊI-shên. áil VI-zit dhê thîm párks in or-LÉN-dôu",
+          "audio": "R02-3.mp3",
+          "nivel": 3,
+          "grupo": "Turismo"
+        },
+        {
+          "id": "R02-4",
+          "en": "To visit family.",
+          "pronuncia": "tu VI-zit FÉ-mi-li",
+          "audio": "R02-4.mp3",
+          "nivel": 1,
+          "grupo": "Visitar família"
+        },
+        {
+          "id": "R02-5",
+          "en": "I'm here to visit my sister.",
+          "pronuncia": "áim rrír tu VI-zit mái SIS-tér",
+          "audio": "R02-5.mp3",
+          "nivel": 2,
+          "grupo": "Visitar família"
+        },
+        {
+          "id": "R02-6",
+          "en": "I'm here to visit my sister in Miami. I'll stay with her for ten days.",
+          "pronuncia": "áim rrír tu VI-zit mái SIS-tér in mai-É-mi. áil stêi uídh rrêr fór tên dêiz",
+          "audio": "R02-6.mp3",
+          "nivel": 3,
+          "grupo": "Visitar família"
+        },
+        {
+          "id": "R02-7",
+          "en": "Business.",
+          "pronuncia": "BIZ-nês",
+          "audio": "R02-7.mp3",
+          "nivel": 1,
+          "grupo": "Trabalho"
+        },
+        {
+          "id": "R02-8",
+          "en": "I'm here for a business meeting.",
+          "pronuncia": "áim rrír fór a BIZ-nês MÍ-ting",
+          "audio": "R02-8.mp3",
+          "nivel": 2,
+          "grupo": "Trabalho"
+        },
+        {
+          "id": "R02-9",
+          "en": "I'm here for a business meeting with a client. I'll go back to Brazil after the meeting.",
+          "pronuncia": "áim rrír fór a BIZ-nês MÍ-ting uídh a CLÁI-ênt. áil gôu béc tu bra-ZIL ÉF-ter dhê MÍ-ting",
+          "audio": "R02-9.mp3",
+          "nivel": 3,
+          "grupo": "Trabalho"
+        }
+      ]
+    },
+    {
+      "codigo": "P03",
+      "en": "How long will you be staying?",
+      "pronuncia": "rráu lóng uíl iú bi STÊI-ing?",
+      "audio": "P03.mp3",
+      "respostas": [
+        {
+          "id": "R03-1",
+          "en": "Ten days.",
+          "pronuncia": "tên dêiz",
+          "audio": "R03-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R03-2",
+          "en": "I'll be here for ten days.",
+          "pronuncia": "áil bi rrír fór tên dêiz",
+          "audio": "R03-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R03-3",
+          "en": "I'll be here for ten days, until March thirteenth. My return ticket is already booked.",
+          "pronuncia": "áil bi rrír fór tên dêiz, ân-TIL márch thêr-TÍNth. mái ri-TÊRN TI-quit iz ól-RÉ-di búkt",
+          "audio": "R03-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P04",
+      "en": "Where will you be staying?",
+      "pronuncia": "uér uíl iú bi STÊI-ing?",
+      "audio": "P04.mp3",
+      "respostas": [
+        {
+          "id": "R04-1",
+          "en": "At a hotel.",
+          "pronuncia": "ét a rrôu-TÉL",
+          "audio": "R04-1.mp3",
+          "nivel": 1,
+          "grupo": "Hotel"
+        },
+        {
+          "id": "R04-2",
+          "en": "I'll stay at a hotel in Orlando.",
+          "pronuncia": "áil stêi ét a rrôu-TÉL in or-LÉN-dôu",
+          "audio": "R04-2.mp3",
+          "nivel": 2,
+          "grupo": "Hotel"
+        },
+        {
+          "id": "R04-3",
+          "en": "I'll stay at a hotel in Orlando. I have the reservation on my phone.",
+          "pronuncia": "áil stêi ét a rrôu-TÉL in or-LÉN-dôu. ái rrév dhê rê-zêr-VÊI-shên ón mái fôun",
+          "audio": "R04-3.mp3",
+          "nivel": 3,
+          "grupo": "Hotel"
+        },
+        {
+          "id": "R04-4",
+          "en": "With my sister.",
+          "pronuncia": "uídh mái SIS-tér",
+          "audio": "R04-4.mp3",
+          "nivel": 1,
+          "grupo": "Casa de familiar"
+        },
+        {
+          "id": "R04-5",
+          "en": "I'll stay at my sister's house.",
+          "pronuncia": "áil stêi ét mái SIS-térz rráus",
+          "audio": "R04-5.mp3",
+          "nivel": 2,
+          "grupo": "Casa de familiar"
+        },
+        {
+          "id": "R04-6",
+          "en": "I'll stay at my sister's house in Miami. I have her address here.",
+          "pronuncia": "áil stêi ét mái SIS-térz rráus in mai-É-mi. ái rrév rrêr É-dres rrír",
+          "audio": "R04-6.mp3",
+          "nivel": 3,
+          "grupo": "Casa de familiar"
+        }
+      ]
+    },
+    {
+      "codigo": "P05",
+      "en": "Is this your first time in the United States?",
+      "pronuncia": "iz dhis iór fêrst táim in dhê iu-NÁI-tid stêits?",
+      "audio": "P05.mp3",
+      "respostas": [
+        {
+          "id": "R05-1",
+          "en": "Yes, it is.",
+          "pronuncia": "iês, it iz",
+          "audio": "R05-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R05-2",
+          "en": "Yes, this is my first time.",
+          "pronuncia": "iês, dhis iz mái fêrst táim",
+          "audio": "R05-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R05-3",
+          "en": "Yes, this is my first time here. I'm very excited.",
+          "pronuncia": "iês, dhis iz mái fêrst táim rrír. áim VÉ-ri ik-SÁI-tid",
+          "audio": "R05-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P06",
+      "en": "Where are you coming from?",
+      "pronuncia": "uér ár iú CÂ-ming frâm?",
+      "audio": "P06.mp3",
+      "respostas": [
+        {
+          "id": "R06-1",
+          "en": "From Brazil.",
+          "pronuncia": "frâm bra-ZIL",
+          "audio": "R06-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R06-2",
+          "en": "I'm coming from São Paulo, Brazil.",
+          "pronuncia": "áim CÂ-ming frâm sãu PÁU-lo, bra-ZIL",
+          "audio": "R06-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R06-3",
+          "en": "I'm coming from São Paulo, Brazil. I live there.",
+          "pronuncia": "áim CÂ-ming frâm sãu PÁU-lo, bra-ZIL. ái liv dhér",
+          "audio": "R06-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P07",
+      "en": "Do you have a return ticket?",
+      "pronuncia": "du iú rrév a ri-TÊRN TI-quit?",
+      "audio": "P07.mp3",
+      "respostas": [
+        {
+          "id": "R07-1",
+          "en": "Yes, I do.",
+          "pronuncia": "iês, ái du",
+          "audio": "R07-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R07-2",
+          "en": "Yes, I have a return ticket.",
+          "pronuncia": "iês, ái rrév a ri-TÊRN TI-quit",
+          "audio": "R07-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R07-3",
+          "en": "Yes, I have a return ticket for March thirteenth. I can show it to you.",
+          "pronuncia": "iês, ái rrév a ri-TÊRN TI-quit fór márch thêr-TÍNth. ái quén shôu it tu iú",
+          "audio": "R07-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P08",
+      "en": "When are you going back?",
+      "pronuncia": "uén ár iú GÔU-ing béc?",
+      "audio": "P08.mp3",
+      "respostas": [
+        {
+          "id": "R08-1",
+          "en": "March thirteenth.",
+          "pronuncia": "márch thêr-TÍNth",
+          "audio": "R08-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R08-2",
+          "en": "I'm going back on March thirteenth.",
+          "pronuncia": "áim GÔU-ing béc ón márch thêr-TÍNth",
+          "audio": "R08-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R08-3",
+          "en": "I'm going back to Brazil on March thirteenth. I need to be at work on the fifteenth.",
+          "pronuncia": "áim GÔU-ing béc tu bra-ZIL ón márch thêr-TÍNth. ái nid tu bi ét uêrk ón dhê fif-TÍNth",
+          "audio": "R08-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P09",
+      "en": "Are you traveling alone?",
+      "pronuncia": "ár iú TRÉ-vê-ling a-LÔUN?",
+      "audio": "P09.mp3",
+      "respostas": [
+        {
+          "id": "R09-1",
+          "en": "Yes, alone.",
+          "pronuncia": "iês, a-LÔUN",
+          "audio": "R09-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R09-2",
+          "en": "Yes, I'm traveling alone.",
+          "pronuncia": "iês, áim TRÉ-vê-ling a-LÔUN",
+          "audio": "R09-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R09-3",
+          "en": "Yes, I'm traveling alone. This is a vacation trip.",
+          "pronuncia": "iês, áim TRÉ-vê-ling a-LÔUN. dhis iz a vei-KÊI-shên trip",
+          "audio": "R09-3.mp3",
+          "nivel": 3
+        },
+        {
+          "id": "P09-alt",
+          "en": "No, I'm with my wife and my son.",
+          "pronuncia": "nôu, áim uídh mái uáif énd mái sân",
+          "observacao": "Se estiver acompanhado"
+        }
+      ]
+    },
+    {
+      "codigo": "P10",
+      "en": "Which cities will you visit?",
+      "pronuncia": "uítch SI-tis uíl iú VI-zit?",
+      "audio": "P10.mp3",
+      "respostas": [
+        {
+          "id": "R10-1",
+          "en": "Orlando.",
+          "pronuncia": "or-LÉN-dôu",
+          "audio": "R10-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R10-2",
+          "en": "I'll visit Orlando and Miami.",
+          "pronuncia": "áil VI-zit or-LÉN-dôu énd mai-É-mi",
+          "audio": "R10-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R10-3",
+          "en": "I'll visit Orlando for the parks, and then Miami for three days.",
+          "pronuncia": "áil VI-zit or-LÉN-dôu fór dhê párks, énd dhén mai-É-mi fór thrí dêiz",
+          "audio": "R10-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P11",
+      "en": "Do you have a hotel reservation?",
+      "pronuncia": "du iú rrév a rrôu-TÉL rê-zêr-VÊI-shên?",
+      "audio": "P11.mp3",
+      "respostas": [
+        {
+          "id": "R11-1",
+          "en": "Yes, I do.",
+          "pronuncia": "iês, ái du",
+          "audio": "R11-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R11-2",
+          "en": "Yes, I have a reservation in Orlando.",
+          "pronuncia": "iês, ái rrév a rê-zêr-VÊI-shên in or-LÉN-dôu",
+          "audio": "R11-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R11-3",
+          "en": "Yes, I have a reservation for ten nights. I can show it to you on my phone.",
+          "pronuncia": "iês, ái rrév a rê-zêr-VÊI-shên fór tên náits. ái quén shôu it tu iú ón mái fôun",
+          "audio": "R11-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P12",
+      "en": "What do you do for a living?",
+      "pronuncia": "uót du iú du fór a LI-ving?",
+      "audio": "P12.mp3",
+      "respostas": [
+        {
+          "id": "R12-1",
+          "en": "I'm a teacher.",
+          "pronuncia": "áim a TÍ-tchêr",
+          "audio": "R12-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R12-2",
+          "en": "I work as a teacher in Brazil.",
+          "pronuncia": "ái uêrk éz a TÍ-tchêr in bra-ZIL",
+          "audio": "R12-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R12-3",
+          "en": "I work as a teacher in a school in Brazil. I'm on vacation now.",
+          "pronuncia": "ái uêrk éz a TÍ-tchêr in a skul in bra-ZIL. áim ón vei-KÊI-shên náu",
+          "audio": "R12-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P13",
+      "en": "Where do you work?",
+      "pronuncia": "uér du iú uêrk?",
+      "audio": "P13.mp3",
+      "respostas": [
+        {
+          "id": "R13-1",
+          "en": "At a school.",
+          "pronuncia": "ét a skul",
+          "audio": "R13-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R13-2",
+          "en": "I work at a school in São Paulo.",
+          "pronuncia": "ái uêrk ét a skul in sãu PÁU-lo",
+          "audio": "R13-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R13-3",
+          "en": "I work at a school in São Paulo. I've worked there for five years.",
+          "pronuncia": "ái uêrk ét a skul in sãu PÁU-lo. áiv uêrkt dhér fór fáiv iérs",
+          "audio": "R13-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P14",
+      "en": "Who is paying for your trip?",
+      "pronuncia": "rru iz PÊI-ing fór iór trip?",
+      "audio": "P14.mp3",
+      "respostas": [
+        {
+          "id": "R14-1",
+          "en": "I am.",
+          "pronuncia": "ái ém",
+          "audio": "R14-1.mp3",
+          "nivel": 1,
+          "grupo": "Você mesmo(a)"
+        },
+        {
+          "id": "R14-2",
+          "en": "I'm paying for the trip myself.",
+          "pronuncia": "áim PÊI-ing fór dhê trip mái-SÉLF",
+          "audio": "R14-2.mp3",
+          "nivel": 2,
+          "grupo": "Você mesmo(a)"
+        },
+        {
+          "id": "R14-3",
+          "en": "I'm paying for the trip myself. I saved money for it.",
+          "pronuncia": "áim PÊI-ing fór dhê trip mái-SÉLF. ái sêivd MÂ-ni fór it",
+          "audio": "R14-3.mp3",
+          "nivel": 3,
+          "grupo": "Você mesmo(a)"
+        },
+        {
+          "id": "R14-4",
+          "en": "My company.",
+          "pronuncia": "mái CÂM-pâ-ni",
+          "audio": "R14-4.mp3",
+          "nivel": 1,
+          "grupo": "Sua empresa"
+        },
+        {
+          "id": "R14-5",
+          "en": "My company is paying for it.",
+          "pronuncia": "mái CÂM-pâ-ni iz PÊI-ing fór it",
+          "audio": "R14-5.mp3",
+          "nivel": 2,
+          "grupo": "Sua empresa"
+        },
+        {
+          "id": "R14-6",
+          "en": "My company is paying for my trip. It's a business trip, and I'll return to Brazil after it.",
+          "pronuncia": "mái CÂM-pâ-ni iz PÊI-ing fór mái trip. its a BIZ-nês trip, énd áil ri-TÊRN tu bra-ZIL ÉF-ter it",
+          "audio": "R14-6.mp3",
+          "nivel": 3,
+          "grupo": "Sua empresa"
+        }
+      ]
+    },
+    {
+      "codigo": "P15",
+      "en": "Do you have family or friends in the United States?",
+      "pronuncia": "du iú rrév FÉ-mi-li ór frénds in dhê iu-NÁI-tid stêits?",
+      "audio": "P15.mp3",
+      "respostas": [
+        {
+          "id": "R15-1",
+          "en": "No, I don't.",
+          "pronuncia": "nôu, ái dôunt",
+          "audio": "R15-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R15-2",
+          "en": "No, I don't have anyone here.",
+          "pronuncia": "nôu, ái dôunt rrév É-ni-uân rrír",
+          "audio": "R15-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R15-3",
+          "en": "No, I don't know anyone here. I'm here only as a tourist.",
+          "pronuncia": "nôu, ái dôunt nôu É-ni-uân rrír. áim rrír ÔUN-li éz a TÚ-rist",
+          "audio": "R15-3.mp3",
+          "nivel": 3
+        },
+        {
+          "id": "P15-alt",
+          "en": "Yes, my sister lives in Miami.",
+          "pronuncia": "iês, mái SIS-tér livz in mai-É-mi",
+          "observacao": "Se tiver"
+        }
+      ]
+    },
+    {
+      "codigo": "P16",
+      "en": "Where do they live?",
+      "pronuncia": "uér du dhêi liv?",
+      "audio": "P16.mp3",
+      "respostas": [
+        {
+          "id": "R16-1",
+          "en": "In Miami.",
+          "pronuncia": "in mai-É-mi",
+          "audio": "R16-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R16-2",
+          "en": "She lives in Miami, Florida.",
+          "pronuncia": "shi livz in mai-É-mi, FLÓ-ri-da",
+          "audio": "R16-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R16-3",
+          "en": "She lives in Miami, Florida. I have her address and phone number here.",
+          "pronuncia": "shi livz in mai-É-mi, FLÓ-ri-da. ái rrév rrêr É-dres énd fôun NÂM-ber rrír",
+          "audio": "R16-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P17",
+      "en": "How do you know her?",
+      "pronuncia": "rráu du iú nôu rrêr?",
+      "audio": "P17.mp3",
+      "respostas": [
+        {
+          "id": "R17-1",
+          "en": "She's my sister.",
+          "pronuncia": "shiz mái SIS-tér",
+          "audio": "R17-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R17-2",
+          "en": "She's my sister. She moved here five years ago.",
+          "pronuncia": "shiz mái SIS-tér. shi muvd rrír fáiv iérs a-GÔU",
+          "audio": "R17-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R17-3",
+          "en": "She's my sister. She has lived here for five years, and I'm visiting her for ten days.",
+          "pronuncia": "shiz mái SIS-tér. shi rréz livd rrír fór fáiv iérs, énd áim VI-zi-ting rrêr fór tên dêiz",
+          "audio": "R17-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P18",
+      "en": "How much money are you carrying?",
+      "pronuncia": "rráu mâtch MÂ-ni ár iú CÉ-ri-ing?",
+      "audio": "P18.mp3",
+      "respostas": [
+        {
+          "id": "R18-1",
+          "en": "About two thousand dollars.",
+          "pronuncia": "a-BÁUT tu THÁU-zênd DÓ-lêrs",
+          "audio": "R18-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R18-2",
+          "en": "I have about two thousand dollars and a credit card.",
+          "pronuncia": "ái rrév a-BÁUT tu THÁU-zênd DÓ-lêrs énd a CRÉ-dit card",
+          "audio": "R18-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R18-3",
+          "en": "I have about two thousand dollars with me, plus my credit cards. That's enough for my trip.",
+          "pronuncia": "ái rrév a-BÁUT tu THÁU-zênd DÓ-lêrs uídh mi, plâs mái CRÉ-dit cárds. dhéts i-NÂF fór mái trip",
+          "audio": "R18-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P19",
+      "en": "Are you carrying more than ten thousand dollars?",
+      "pronuncia": "ár iú CÉ-ri-ing mór dhén tên THÁU-zênd DÓ-lêrs?",
+      "audio": "P19.mp3",
+      "respostas": [
+        {
+          "id": "R19-1",
+          "en": "No, I'm not.",
+          "pronuncia": "nôu, áim nót",
+          "audio": "R19-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R19-2",
+          "en": "No, I have less than ten thousand dollars.",
+          "pronuncia": "nôu, ái rrév lés dhén tên THÁU-zênd DÓ-lêrs",
+          "audio": "R19-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R19-3",
+          "en": "No, I have less than ten thousand dollars. I'm carrying about two thousand.",
+          "pronuncia": "nôu, ái rrév lés dhén tên THÁU-zênd DÓ-lêrs. áim CÉ-ri-ing a-BÁUT tu THÁU-zênd",
+          "audio": "R19-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P20",
+      "en": "Do you have a credit card?",
+      "pronuncia": "du iú rrév a CRÉ-dit card?",
+      "audio": "P20.mp3",
+      "respostas": [
+        {
+          "id": "R20-1",
+          "en": "Yes, I do.",
+          "pronuncia": "iês, ái du",
+          "audio": "R20-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R20-2",
+          "en": "Yes, I have two credit cards.",
+          "pronuncia": "iês, ái rrév tu CRÉ-dit cárds",
+          "audio": "R20-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R20-3",
+          "en": "Yes, I have two credit cards and some cash.",
+          "pronuncia": "iês, ái rrév tu CRÉ-dit cárds énd sâm quésh",
+          "audio": "R20-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P21",
+      "en": "How many bags do you have?",
+      "pronuncia": "rráu MÉ-ni bégs du iú rrév?",
+      "audio": "P21.mp3",
+      "respostas": [
+        {
+          "id": "R21-1",
+          "en": "Two bags.",
+          "pronuncia": "tu bégs",
+          "audio": "R21-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R21-2",
+          "en": "I have two bags.",
+          "pronuncia": "ái rrév tu bégs",
+          "audio": "R21-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R21-3",
+          "en": "I have two bags: one suitcase and one backpack.",
+          "pronuncia": "ái rrév tu bégs: uân SUT-quêis énd uân BÉC-péc",
+          "audio": "R21-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P22",
+      "en": "Are you bringing any food, plants, or fruit?",
+      "pronuncia": "ár iú BRIN-ging É-ni fud, plénts, ór frut?",
+      "audio": "P22.mp3",
+      "respostas": [
+        {
+          "id": "R22-1",
+          "en": "No, nothing.",
+          "pronuncia": "nôu, NÂ-thing",
+          "audio": "R22-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R22-2",
+          "en": "No, I'm not bringing any food.",
+          "pronuncia": "nôu, áim nót BRIN-ging É-ni fud",
+          "audio": "R22-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R22-3",
+          "en": "No, I'm not bringing any food, plants, or fruit.",
+          "pronuncia": "nôu, áim nót BRIN-ging É-ni fud, plénts, ór frut",
+          "audio": "R22-3.mp3",
+          "nivel": 3
+        },
+        {
+          "id": "P22-alt",
+          "en": "Yes, I have some chocolate and coffee.",
+          "pronuncia": "iês, ái rrév sâm TCHÓC-lêt énd CÓ-fi",
+          "observacao": "Se trouxer algo"
+        }
+      ]
+    },
+    {
+      "codigo": "P23",
+      "en": "Do you have anything to declare?",
+      "pronuncia": "du iú rrév É-ni-thing tu di-CLÉR?",
+      "audio": "P23.mp3",
+      "respostas": [
+        {
+          "id": "R23-1",
+          "en": "No, nothing.",
+          "pronuncia": "nôu, NÂ-thing",
+          "audio": "R23-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R23-2",
+          "en": "No, I have nothing to declare.",
+          "pronuncia": "nôu, ái rrév NÂ-thing tu di-CLÉR",
+          "audio": "R23-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R23-3",
+          "en": "No, I have nothing to declare. I'm only bringing my personal items.",
+          "pronuncia": "nôu, ái rrév NÂ-thing tu di-CLÉR. áim ÔUN-li BRIN-ging mái PÊR-sô-nal ÁI-têms",
+          "audio": "R23-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P24",
+      "en": "Are you bringing gifts or anything to sell?",
+      "pronuncia": "ár iú BRIN-ging guifts ór É-ni-thing tu sél?",
+      "audio": "P24.mp3",
+      "respostas": [
+        {
+          "id": "R24-1",
+          "en": "No, nothing to sell.",
+          "pronuncia": "nôu, NÂ-thing tu sél",
+          "audio": "R24-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R24-2",
+          "en": "No, I'm not bringing anything to sell.",
+          "pronuncia": "nôu, áim nót BRIN-ging É-ni-thing tu sél",
+          "audio": "R24-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R24-3",
+          "en": "No, nothing to sell. Only my personal things and one gift for my sister.",
+          "pronuncia": "nôu, NÂ-thing tu sél. ÔUN-li mái PÊR-sô-nal thíngs énd uân guift fór mái SIS-tér",
+          "audio": "R24-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P25",
+      "en": "When was your last visit to the U.S.?",
+      "pronuncia": "uén uóz iór lést VI-zit tu dhê iu-ÉS?",
+      "audio": "P25.mp3",
+      "respostas": [
+        {
+          "id": "R25-1",
+          "en": "Two years ago.",
+          "pronuncia": "tu iérs a-GÔU",
+          "audio": "R25-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R25-2",
+          "en": "I came here two years ago.",
+          "pronuncia": "ái quêim rrír tu iérs a-GÔU",
+          "audio": "R25-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R25-3",
+          "en": "I came here two years ago for vacation, and I went back to Brazil on time.",
+          "pronuncia": "ái quêim rrír tu iérs a-GÔU fór vei-KÊI-shên, énd ái uént béc tu bra-ZIL ón táim",
+          "audio": "R25-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P26",
+      "en": "Can you show me your return ticket?",
+      "pronuncia": "quén iú shôu mi iór ri-TÊRN TI-quit?",
+      "audio": "P26.mp3",
+      "respostas": [
+        {
+          "id": "R26-1",
+          "en": "Sure.",
+          "pronuncia": "shur",
+          "audio": "R26-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R26-2",
+          "en": "Sure, here it is.",
+          "pronuncia": "shur, rrír it iz",
+          "audio": "R26-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R26-3",
+          "en": "Sure. Here is my return ticket on my phone. It's for March thirteenth.",
+          "pronuncia": "shur. rrír iz mái ri-TÊRN TI-quit ón mái fôun. its fór márch thêr-TÍNth",
+          "audio": "R26-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P27",
+      "en": "Can you show me your reservation?",
+      "pronuncia": "quén iú shôu mi iór rê-zêr-VÊI-shên?",
+      "audio": "P27.mp3",
+      "respostas": [
+        {
+          "id": "R27-1",
+          "en": "Sure.",
+          "pronuncia": "shur",
+          "audio": "R27-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R27-2",
+          "en": "Sure. Here is my reservation.",
+          "pronuncia": "shur. rrír iz mái rê-zêr-VÊI-shên",
+          "audio": "R27-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R27-3",
+          "en": "Sure. Here is my hotel reservation. It's for ten nights in Orlando.",
+          "pronuncia": "shur. rrír iz mái rrôu-TÉL rê-zêr-VÊI-shên. its fór tên náits in or-LÉN-dôu",
+          "audio": "R27-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P28",
+      "en": "Do you speak English?",
+      "pronuncia": "du iú spik ÍN-glish?",
+      "audio": "P28.mp3",
+      "respostas": [
+        {
+          "id": "R28-1",
+          "en": "A little.",
+          "pronuncia": "a LI-tôl",
+          "audio": "R28-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R28-2",
+          "en": "A little. Could you speak slowly, please?",
+          "pronuncia": "a LI-tôl. cud iú spik SLÔU-li, pliz?",
+          "audio": "R28-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R28-3",
+          "en": "I speak a little English. Could you please speak slowly? I will do my best.",
+          "pronuncia": "ái spik a LI-tôl ÍN-glish. cud iú pliz spik SLÔU-li? ái uíl du mái bést",
+          "audio": "R28-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P29",
+      "en": "Who are you going to meet?",
+      "pronuncia": "rru ár iú GÔU-ing tu mit?",
+      "audio": "P29.mp3",
+      "respostas": [
+        {
+          "id": "R29-1",
+          "en": "A client.",
+          "pronuncia": "a CLÁI-ênt",
+          "audio": "R29-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R29-2",
+          "en": "I'm going to meet a client.",
+          "pronuncia": "áim GÔU-ing tu mit a CLÁI-ênt",
+          "audio": "R29-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R29-3",
+          "en": "I'm going to meet a client at a company in Houston. I have the meeting invitation here.",
+          "pronuncia": "áim GÔU-ing tu mit a CLÁI-ênt ét a CÂM-pâ-ni in RRIÚS-ton. ái rrév dhê MÍ-ting in-vi-TÊI-shên rrír",
+          "audio": "R29-3.mp3",
+          "nivel": 3
+        }
+      ]
+    },
+    {
+      "codigo": "P30",
+      "en": "Will you work or study while you are here?",
+      "pronuncia": "uíl iú uêrk ór STÂ-di uáil iú ár rrír?",
+      "audio": "P30.mp3",
+      "respostas": [
+        {
+          "id": "R30-1",
+          "en": "No, I won't.",
+          "pronuncia": "nôu, ái uôunt",
+          "audio": "R30-1.mp3",
+          "nivel": 1
+        },
+        {
+          "id": "R30-2",
+          "en": "No, I'm only here as a tourist.",
+          "pronuncia": "nôu, áim ÔUN-li rrír éz a TÚ-rist",
+          "audio": "R30-2.mp3",
+          "nivel": 2
+        },
+        {
+          "id": "R30-3",
+          "en": "No, I won't work or study. I'm only here on vacation, and I'm going back on March thirteenth.",
+          "pronuncia": "nôu, ái uôunt uêrk ór STÂ-di. áim ÔUN-li rrír ón vei-KÊI-shên, énd áim GÔU-ing béc ón márch thêr-TÍNth",
+          "audio": "R30-3.mp3",
+          "nivel": 3
+        }
+      ]
+    }
+  ],
+  "resgate": [
+    {
+      "id": "RES-1",
+      "en": "Sorry, could you repeat that, please?",
+      "pronuncia": "SÓ-ri, cud iú ri-PIT dhét, pliz?",
+      "audio": "RES-1.mp3"
+    },
+    {
+      "id": "RES-2",
+      "en": "Could you speak more slowly, please?",
+      "pronuncia": "cud iú spik mór SLÔU-li, pliz?",
+      "audio": "RES-2.mp3"
+    },
+    {
+      "id": "RES-3",
+      "en": "I didn't understand. Can you say it again?",
+      "pronuncia": "ái DI-dênt ân-der-STÉND. quén iú sêi it a-GÊN?",
+      "audio": "RES-3.mp3"
+    },
+    {
+      "id": "RES-4",
+      "en": "Sorry, my English is basic.",
+      "pronuncia": "SÓ-ri, mái ÍN-glish iz BÊI-sic",
+      "audio": "RES-4.mp3"
+    },
+    {
+      "id": "RES-5",
+      "en": "Can I have a moment, please?",
+      "pronuncia": "quén ái rrév a MÔU-mênt, pliz?",
+      "audio": "RES-5.mp3"
+    },
+    {
+      "id": "RES-6",
+      "en": "Could I have an interpreter, please?",
+      "pronuncia": "cud ái rrév an in-TÊR-prê-têr, pliz?",
+      "audio": "RES-6.mp3"
+    }
+  ],
+  "treinoRapido": [
+    "Leia só a pronúncia das frases P01 a P08, em voz alta, 2 vezes.",
+    "Ouça o áudio correspondente e compare.",
+    "Grave sua voz dizendo R02-2, R03-2 e R08-2 e escute.",
+    "Repita no dia seguinte, sem olhar."
+  ],
+  "aviso": "A pronúncia escrita é uma aproximação para facilitar. Para a pronúncia exata, use sempre os áudios."
+}

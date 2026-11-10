@@ -1,0 +1,104 @@
+[
+  {
+    "id": "antes",
+    "titulo": "Antes de viajar",
+    "itens": [
+      {
+        "id": "antes-1",
+        "texto": "Passagem de volta salva em PDF no celular e impressa"
+      },
+      {
+        "id": "antes-2",
+        "texto": "Reserva da hospedagem salva no celular e impressa"
+      },
+      {
+        "id": "antes-3",
+        "texto": "Cartão “Minha viagem em inglês” preenchido e conferido com a passagem e a reserva"
+      },
+      {
+        "id": "antes-4",
+        "texto": "Treinei as perguntas nos níveis 1 e 2, com áudio"
+      },
+      {
+        "id": "antes-5",
+        "texto": "Sei as 6 frases de resgate sem olhar"
+      },
+      {
+        "id": "antes-6",
+        "texto": "Sei dizer o meu motivo, as minhas datas e onde vou ficar em inglês"
+      },
+      {
+        "id": "antes-7",
+        "texto": "Listei o que levo de comida e valores e conferi as regras atuais em cbp.gov"
+      },
+      {
+        "id": "antes-8",
+        "texto": "Conferi com a companhia aérea e nos sites oficiais os documentos exigidos para a viagem"
+      }
+    ]
+  },
+  {
+    "id": "aviao",
+    "titulo": "No avião e na fila",
+    "itens": [
+      {
+        "id": "aviao-1",
+        "texto": "Celular carregado, com passagem de volta e reserva fáceis de abrir sem internet"
+      },
+      {
+        "id": "aviao-2",
+        "texto": "Passaporte e documentos da viagem à mão"
+      },
+      {
+        "id": "aviao-3",
+        "texto": "Ouvi mais uma vez as perguntas mais comuns e as frases de resgate"
+      },
+      {
+        "id": "aviao-4",
+        "texto": "Revisei o meu cartão: datas, hospedagem e valores"
+      },
+      {
+        "id": "aviao-5",
+        "texto": "Se pedirem, preenchi a declaração da alfândega com a verdade"
+      },
+      {
+        "id": "aviao-6",
+        "texto": "Respirei fundo: vou responder curto e com calma"
+      }
+    ]
+  },
+  {
+    "id": "cabine",
+    "titulo": "Na cabine e depois",
+    "itens": [
+      {
+        "id": "cabine-1",
+        "texto": "Cumprimentei o oficial (Good morning / Good afternoon)"
+      },
+      {
+        "id": "cabine-2",
+        "texto": "Ouvi a pergunta inteira antes de responder"
+      },
+      {
+        "id": "cabine-3",
+        "texto": "Respondi curto e com a verdade"
+      },
+      {
+        "id": "cabine-4",
+        "texto": "Pedi para repetir quando não entendi"
+      },
+      {
+        "id": "cabine-5",
+        "texto": "Olhei para a câmera e coloquei os dedos no leitor quando pedido"
+      },
+      {
+        "id": "cabine-6",
+        "texto": "Declarei alimentos e valores, se tinha algo a declarar"
+      },
+      {
+        "id": "cabine-7",
+        "texto": "Conferi se recebi o passaporte e os documentos de volta antes de sair"
+      }
+    ]
+  }
+]

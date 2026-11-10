@@ -1,0 +1,50 @@
+[
+  {
+    "id": "RES-1",
+    "en": "Sorry, could you repeat that, please?",
+    "pronuncia": "SÓ-ri, cud iú ri-PIT dhét, pliz?",
+    "audio": "RES-1.mp3",
+    "pt": "Desculpe, pode repetir, por favor?",
+    "quando": "Não ouviu ou não entendeu a pergunta."
+  },
+  {
+    "id": "RES-2",
+    "en": "Could you speak more slowly, please?",
+    "pronuncia": "cud iú spik mór SLÔU-li, pliz?",
+    "audio": "RES-2.mp3",
+    "pt": "Pode falar mais devagar, por favor?",
+    "quando": "O oficial está falando rápido demais."
+  },
+  {
+    "id": "RES-3",
+    "en": "I didn't understand. Can you say it again?",
+    "pronuncia": "ái DI-dênt ân-der-STÉND. quén iú sêi it a-GÊN?",
+    "audio": "RES-3.mp3",
+    "pt": "Não entendi. Pode dizer de novo?",
+    "quando": "Ouviu, mas não entendeu o sentido."
+  },
+  {
+    "id": "RES-4",
+    "en": "Sorry, my English is basic.",
+    "pronuncia": "SÓ-ri, mái ÍN-glish iz BÊI-sic",
+    "audio": "RES-4.mp3",
+    "pt": "Desculpe, o meu inglês é básico.",
+    "quando": "Para avisar com calma que o seu inglês é simples."
+  },
+  {
+    "id": "RES-5",
+    "en": "Can I have a moment, please?",
+    "pronuncia": "quén ái rrév a MÔU-mênt, pliz?",
+    "audio": "RES-5.mp3",
+    "pt": "Posso ter um momento, por favor?",
+    "quando": "Precisa de alguns segundos para pensar ou achar um documento."
+  },
+  {
+    "id": "RES-6",
+    "en": "Could I have an interpreter, please?",
+    "pronuncia": "cud ái rrév an in-TÊR-prê-têr, pliz?",
+    "audio": "RES-6.mp3",
+    "pt": "Posso ter um intérprete, por favor?",
+    "quando": "Precisa de ajuda com o idioma para continuar."
+  }
+]

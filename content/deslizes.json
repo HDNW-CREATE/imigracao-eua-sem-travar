@@ -1,0 +1,181 @@
+{
+  "titulo": "Os 10 Deslizes de Quem Trava na Imigração",
+  "subtitulo": "Os erros de fala mais comuns na fila, com o que dizer no lugar.",
+  "paraQueServe": "A maioria das complicações na entrevista não vem de “inglês ruim”. Vem de como a pessoa responde sob nervosismo: fala demais, dá resposta vaga, diz “yes” sem entender, muda a história. Aqui estão os 10 deslizes mais comuns e a frase certa para cada um.",
+  "principio": "Diga a verdade, de forma simples e curta. A verdade não precisa ser lembrada nem enfeitada.",
+  "deslizes": [
+    {
+      "numero": 1,
+      "titulo": "Responder mais do que foi perguntado",
+      "oQueAcontece": "A pessoa nervosa conta a viagem inteira. Cada frase extra abre uma nova pergunta e aumenta o risco de se contradizer.",
+      "emVezDe": "“I'm here on vacation, and also I want to see some friends, and maybe go to some stores, and…”",
+      "diga": [
+        {
+          "en": "I'm here on vacation."
+        }
+      ],
+      "treino": "Responda P02 e P03 em 5 palavras ou menos (nível 1) e só amplie se o oficial perguntar mais."
+    },
+    {
+      "numero": 2,
+      "titulo": "Dar resposta vaga",
+      "oQueAcontece": "“I don't know… maybe two weeks…” passa insegurança. O oficial precisa de datas e fatos claros.",
+      "emVezDe": "“I don't know, maybe two weeks.”",
+      "diga": [
+        {
+          "en": "Ten days. I'm going back on March thirteenth."
+        }
+      ],
+      "treino": "Diga em voz alta a sua data de chegada, a de volta e o total de dias, sem pensar. Use o Cartão “Minha Viagem em Inglês”."
+    },
+    {
+      "numero": 3,
+      "titulo": "Dizer “yes” sem ter entendido",
+      "oQueAcontece": "O medo de parecer que não entende leva a um “yes” automático. Um “yes” errado pode significar algo que você não quis dizer, por exemplo, em “Are you planning to work here?”.",
+      "emVezDe": "“Yes.” (sem entender)",
+      "diga": [
+        {
+          "en": "Sorry, could you repeat that, please?"
+        }
+      ],
+      "treino": "Repita as 6 frases de resgate (RES-1 a RES-6) até saírem sem pensar."
+    },
+    {
+      "numero": 4,
+      "titulo": "Mudar a história no meio da conversa",
+      "oQueAcontece": "“Hotel… no, my sister's house… I think hotel.” Contradições geram perguntas extras e desconfiança.",
+      "emVezDe": "Várias versões da mesma informação.",
+      "diga": [
+        {
+          "pt": "Uma única versão, a verdadeira, a mesma do cartão."
+        }
+      ],
+      "treino": "Antes de embarcar, resolva onde vai ficar, por quanto tempo e quem paga. Escreva no cartão e leia em voz alta."
+    },
+    {
+      "numero": 5,
+      "titulo": "Ficar em silêncio longo ou travar sem avisar",
+      "oQueAcontece": "A pessoa congela e não diz nada. O oficial não sabe se você não entendeu ou se está escondendo algo.",
+      "emVezDe": "Silêncio.",
+      "diga": [
+        {
+          "en": "Can I have a moment, please?"
+        },
+        {
+          "en": "Sorry, my English is basic."
+        }
+      ],
+      "treino": "Respire uma vez antes de responder. Uma pausa curta é normal e passa calma."
+    },
+    {
+      "numero": 6,
+      "titulo": "Dar informações que não batem com os documentos",
+      "oQueAcontece": "Você diz uma data de volta e a passagem mostra outra. O oficial pode pedir para ver a passagem e a reserva.",
+      "emVezDe": "O que lembra de cabeça.",
+      "diga": [
+        {
+          "pt": "O que está no cartão, conferido com a passagem e a reserva."
+        }
+      ],
+      "treino": "Use a checagem final do Cartão “Minha Viagem em Inglês”."
+    },
+    {
+      "numero": 7,
+      "titulo": "Usar palavras com duplo sentido",
+      "oQueAcontece": "Palavras como work, job, live, help e stay podem soar como intenção de trabalhar ou de ficar morando.",
+      "emVezDe": "Frases que deixam dúvida (veja a tabela).",
+      "tabela": [
+        {
+          "emVezDe": "I'm going to stay there.",
+          "diga": "I'm going to stay for ten days."
+        },
+        {
+          "emVezDe": "I'll help my sister at her store.",
+          "diga": "I'm only visiting my sister."
+        },
+        {
+          "emVezDe": "I want to look for opportunities.",
+          "diga": "I'm here as a tourist."
+        },
+        {
+          "emVezDe": "I'm going to work in Orlando. (se for turismo)",
+          "diga": "I'm going to visit Orlando."
+        }
+      ],
+      "diga": [],
+      "atencao": "Se a viagem for de trabalho, diga com clareza: “I'm here for a business meeting.” E sempre fale a verdade sobre o motivo da sua viagem.",
+      "treino": "Leia a tabela em voz alta e repita só a coluna “Diga”."
+    },
+    {
+      "numero": 8,
+      "titulo": "Demorar para achar os documentos",
+      "oQueAcontece": "Celular sem bateria, passagem perdida no e-mail, reserva sem sinal. A busca nervosa parece falta de preparação.",
+      "emVezDe": "Procurar no celular na hora.",
+      "diga": [
+        {
+          "en": "Sure. Here it is."
+        }
+      ],
+      "treino": "Deixe passagem de volta e reserva salvas em PDF no celular, na tela inicial ou em uma pasta fixa, e também impressas."
+    },
+    {
+      "numero": 9,
+      "titulo": "Discutir, reclamar ou demonstrar irritação",
+      "oQueAcontece": "Perguntas repetidas parecem exageradas, mas são rotina. Reclamar piora o clima.",
+      "emVezDe": "“Why are you asking me this again?”",
+      "diga": [
+        {
+          "en": "Of course."
+        },
+        {
+          "en": "Sure."
+        }
+      ],
+      "treino": "Sorria de leve, olhe nos olhos e responda no mesmo tom do oficial."
+    },
+    {
+      "numero": 10,
+      "titulo": "Esquecer de declarar alimentos ou valores",
+      "oQueAcontece": "Na pressa, a pessoa diz “no, nothing” mesmo levando chocolate, café, frutas ou mais dinheiro do que o limite de declaração.",
+      "emVezDe": "“No, nothing.” (quando tem algo a declarar)",
+      "diga": [
+        {
+          "en": "Yes, I have some chocolate and coffee."
+        }
+      ],
+      "treino": "Antes de fechar a mala, liste o que leva de comida e confira as regras atuais da CBP no site oficial (cbp.gov). Declarar é simples e evita problemas."
+    }
+  ],
+  "conversaLonga": {
+    "titulo": "E se o oficial pedir uma conversa mais longa?",
+    "texto": "Pode acontecer. Em alguns casos, o oficial encaminha o viajante para outra sala para mais perguntas. Isso não significa que algo está errado. O que ajuda:",
+    "itens": [
+      {
+        "pt": "Mantenha a calma e fale devagar."
+      },
+      {
+        "pt": "Responda com a verdade, em frases curtas."
+      },
+      {
+        "pt": "Se não entender:",
+        "en": "Sorry, could you repeat that, please?"
+      },
+      {
+        "pt": "Se precisar de ajuda com o idioma:",
+        "en": "Could I have an interpreter, please?"
+      },
+      {
+        "pt": "Tenha passagem, reserva e cartão à mão."
+      }
+    ],
+    "aviso": "Este guia não é orientação jurídica. Em caso de dúvida sobre sua situação, consulte o site oficial da CBP ou um profissional habilitado."
+  },
+  "checklistRapido": [
+    "Vou responder curto (nível 1 ou 2)",
+    "Sei as minhas datas, o meu hotel e o meu motivo sem pensar",
+    "Passagem de volta e reserva abertas no celular e impressas",
+    "Sei as 6 frases de resgate",
+    "Vou dizer a verdade, com calma",
+    "Listei o que levo de comida e valores"
+  ]
+}

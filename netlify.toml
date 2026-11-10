@@ -1,0 +1,17 @@
+# Opcional: use só se for publicar na Netlify (o recomendado é a Vercel).
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[functions]
+  included_files = ["content/**"]
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

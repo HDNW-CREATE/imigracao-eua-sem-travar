@@ -1,0 +1,136 @@
+@import 'tailwindcss';
+
+/* Cores da marca */
+@theme {
+  --color-petroleo: #0b3a5b;
+  --color-petroleo-escuro: #072a43;
+  --color-ceu: #7cc4f5;
+  --color-ambar: #f5a623;
+  --color-gelo: #f4f7f8;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+}
+
+/* Tokens de tema (claro / escuro) */
+@theme inline {
+  --color-fundo: var(--fundo);
+  --color-superficie: var(--superficie);
+  --color-superficie-2: var(--superficie-2);
+  --color-texto: var(--texto);
+  --color-suave: var(--suave);
+  --color-borda: var(--borda);
+  --color-primario: var(--primario);
+  --color-primario-texto: var(--primario-texto);
+  --color-destaque: var(--destaque);
+  --color-sucesso: var(--sucesso);
+  --color-alerta-fundo: var(--alerta-fundo);
+  --color-alerta-texto: var(--alerta-texto);
+}
+
+:root {
+  --fundo: #f4f7f8;
+  --superficie: #ffffff;
+  --superficie-2: #eaf1f5;
+  --texto: #0b2133;
+  --suave: #47606f;
+  --borda: #d3e0e8;
+  --primario: #0b3a5b;
+  --primario-texto: #ffffff;
+  --destaque: #0b3a5b;
+  --sucesso: #13795b;
+  --alerta-fundo: #fff4de;
+  --alerta-texto: #6b4300;
+  --mapa: #0b3a5b;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fundo: #061e30;
+    --superficie: #0c2d46;
+    --superficie-2: #113855;
+    --texto: #f4f7f8;
+    --suave: #a9c3d6;
+    --borda: #21506f;
+    --primario: #7cc4f5;
+    --primario-texto: #06263d;
+    --destaque: #7cc4f5;
+    --sucesso: #5fd1a6;
+    --alerta-fundo: #3a2a0a;
+    --alerta-texto: #ffd58a;
+    --mapa: #7cc4f5;
+    color-scheme: dark;
+  }
+}
+
+html {
+  font-size: 106.25%; /* 17px no celular */
+  -webkit-text-size-adjust: 100%;
+}
+@media (min-width: 1024px) {
+  html {
+    font-size: 100%;
+  }
+}
+
+body {
+  background: var(--fundo);
+  color: var(--texto);
+  font-family: var(--font-sans);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Foco visível e consistente */
+:focus-visible {
+  outline: 3px solid var(--color-ambar);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Linha tracejada do "cartão de embarque" com os recortes laterais */
+.picote {
+  position: relative;
+  border-top: 2px dashed var(--borda);
+  margin: 1rem -1.25rem 1rem calc(-1.25rem - 6px);
+}
+.picote::before,
+.picote::after {
+  content: '';
+  position: absolute;
+  top: -11px;
+  width: 20px;
+  height: 20px;
+  border-radius: 9999px;
+  background: var(--fundo);
+  border: 1px solid var(--borda);
+}
+.picote::before {
+  left: -11px;
+  clip-path: inset(0 0 0 50%);
+}
+.picote::after {
+  right: -11px;
+  clip-path: inset(0 50% 0 0);
+}
+
+.pb-seguro {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

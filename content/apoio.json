@@ -1,0 +1,533 @@
+{
+  "meses": [
+    {
+      "pt": "Janeiro",
+      "en": "January",
+      "pronuncia": "JÉ-niu-é-ri"
+    },
+    {
+      "pt": "Fevereiro",
+      "en": "February",
+      "pronuncia": "FÉ-bru-é-ri"
+    },
+    {
+      "pt": "Março",
+      "en": "March",
+      "pronuncia": "márch"
+    },
+    {
+      "pt": "Abril",
+      "en": "April",
+      "pronuncia": "ÊI-pril"
+    },
+    {
+      "pt": "Maio",
+      "en": "May",
+      "pronuncia": "mêi"
+    },
+    {
+      "pt": "Junho",
+      "en": "June",
+      "pronuncia": "djun"
+    },
+    {
+      "pt": "Julho",
+      "en": "July",
+      "pronuncia": "dju-LÁI"
+    },
+    {
+      "pt": "Agosto",
+      "en": "August",
+      "pronuncia": "Ó-gâst"
+    },
+    {
+      "pt": "Setembro",
+      "en": "September",
+      "pronuncia": "sép-TÉM-bêr"
+    },
+    {
+      "pt": "Outubro",
+      "en": "October",
+      "pronuncia": "óc-TÔU-bêr"
+    },
+    {
+      "pt": "Novembro",
+      "en": "November",
+      "pronuncia": "no-VÉM-bêr"
+    },
+    {
+      "pt": "Dezembro",
+      "en": "December",
+      "pronuncia": "di-SÉM-bêr"
+    }
+  ],
+  "ordinais": [
+    {
+      "pt": "1",
+      "en": "first",
+      "pronuncia": "fêrst"
+    },
+    {
+      "pt": "2",
+      "en": "second",
+      "pronuncia": "SÉ-cônd"
+    },
+    {
+      "pt": "3",
+      "en": "third",
+      "pronuncia": "thêrd"
+    },
+    {
+      "pt": "4",
+      "en": "fourth",
+      "pronuncia": "fórth"
+    },
+    {
+      "pt": "5",
+      "en": "fifth",
+      "pronuncia": "fifth"
+    },
+    {
+      "pt": "6",
+      "en": "sixth",
+      "pronuncia": "siksth"
+    },
+    {
+      "pt": "7",
+      "en": "seventh",
+      "pronuncia": "SÉ-vênth"
+    },
+    {
+      "pt": "8",
+      "en": "eighth",
+      "pronuncia": "êitth"
+    },
+    {
+      "pt": "9",
+      "en": "ninth",
+      "pronuncia": "náinth"
+    },
+    {
+      "pt": "10",
+      "en": "tenth",
+      "pronuncia": "ténth"
+    },
+    {
+      "pt": "11",
+      "en": "eleventh",
+      "pronuncia": "i-LÉ-vênth"
+    },
+    {
+      "pt": "12",
+      "en": "twelfth",
+      "pronuncia": "tuélfth"
+    },
+    {
+      "pt": "13",
+      "en": "thirteenth",
+      "pronuncia": "thêr-TÍNth"
+    },
+    {
+      "pt": "14",
+      "en": "fourteenth",
+      "pronuncia": "fór-TÍNth"
+    },
+    {
+      "pt": "15",
+      "en": "fifteenth",
+      "pronuncia": "fif-TÍNth"
+    },
+    {
+      "pt": "16",
+      "en": "sixteenth",
+      "pronuncia": "six-TÍNth"
+    },
+    {
+      "pt": "17",
+      "en": "seventeenth",
+      "pronuncia": "sev-ên-TÍNth"
+    },
+    {
+      "pt": "18",
+      "en": "eighteenth",
+      "pronuncia": "ê-TÍNth"
+    },
+    {
+      "pt": "19",
+      "en": "nineteenth",
+      "pronuncia": "nain-TÍNth"
+    },
+    {
+      "pt": "20",
+      "en": "twentieth",
+      "pronuncia": "TUÉN-ti-êth"
+    },
+    {
+      "pt": "21",
+      "en": "twenty-first",
+      "pronuncia": "TUÉN-ti fêrst"
+    },
+    {
+      "pt": "22",
+      "en": "twenty-second",
+      "pronuncia": "TUÉN-ti SÉ-cônd"
+    },
+    {
+      "pt": "23",
+      "en": "twenty-third",
+      "pronuncia": "TUÉN-ti thêrd"
+    },
+    {
+      "pt": "24",
+      "en": "twenty-fourth",
+      "pronuncia": "TUÉN-ti fórth"
+    },
+    {
+      "pt": "25",
+      "en": "twenty-fifth",
+      "pronuncia": "TUÉN-ti fifth"
+    },
+    {
+      "pt": "26",
+      "en": "twenty-sixth",
+      "pronuncia": "TUÉN-ti siksth"
+    },
+    {
+      "pt": "27",
+      "en": "twenty-seventh",
+      "pronuncia": "TUÉN-ti SÉ-vênth"
+    },
+    {
+      "pt": "28",
+      "en": "twenty-eighth",
+      "pronuncia": "TUÉN-ti êitth"
+    },
+    {
+      "pt": "29",
+      "en": "twenty-ninth",
+      "pronuncia": "TUÉN-ti náinth"
+    },
+    {
+      "pt": "30",
+      "en": "thirtieth",
+      "pronuncia": "THÊR-ti-êth"
+    },
+    {
+      "pt": "31",
+      "en": "thirty-first",
+      "pronuncia": "THÊR-ti fêrst"
+    }
+  ],
+  "observacaoOrdinais": "Em inglês americano, a data fala-se assim: mês + número ordinal. Exemplo: March thirteenth (13 de março). Para os dias 21 a 29, diga “twenty” + o ordinal do 1 ao 9.",
+  "diasSemana": [
+    {
+      "pt": "Segunda-feira",
+      "en": "Monday",
+      "pronuncia": "MÂN-dêi"
+    },
+    {
+      "pt": "Terça-feira",
+      "en": "Tuesday",
+      "pronuncia": "TIÚZ-dêi"
+    },
+    {
+      "pt": "Quarta-feira",
+      "en": "Wednesday",
+      "pronuncia": "UÉNZ-dêi"
+    },
+    {
+      "pt": "Quinta-feira",
+      "en": "Thursday",
+      "pronuncia": "THÊRZ-dêi"
+    },
+    {
+      "pt": "Sexta-feira",
+      "en": "Friday",
+      "pronuncia": "FRÁI-dêi"
+    },
+    {
+      "pt": "Sábado",
+      "en": "Saturday",
+      "pronuncia": "SÉ-têr-dêi"
+    },
+    {
+      "pt": "Domingo",
+      "en": "Sunday",
+      "pronuncia": "SÂN-dêi"
+    }
+  ],
+  "datasTreino": [
+    {
+      "pt": "Chegada",
+      "en": "I arrive on March third.",
+      "pronuncia": "ái a-RÁIV ón márch thêrd"
+    },
+    {
+      "pt": "Volta",
+      "en": "I'm going back on March thirteenth.",
+      "pronuncia": "áim GÔU-ing béc ón márch thêr-TÍNth"
+    }
+  ],
+  "numeros": [
+    {
+      "pt": "1",
+      "en": "one",
+      "pronuncia": "uân"
+    },
+    {
+      "pt": "2",
+      "en": "two",
+      "pronuncia": "tu"
+    },
+    {
+      "pt": "3",
+      "en": "three",
+      "pronuncia": "thrí"
+    },
+    {
+      "pt": "4",
+      "en": "four",
+      "pronuncia": "fór"
+    },
+    {
+      "pt": "5",
+      "en": "five",
+      "pronuncia": "fáiv"
+    },
+    {
+      "pt": "6",
+      "en": "six",
+      "pronuncia": "siks"
+    },
+    {
+      "pt": "7",
+      "en": "seven",
+      "pronuncia": "SÉ-vên"
+    },
+    {
+      "pt": "8",
+      "en": "eight",
+      "pronuncia": "êit"
+    },
+    {
+      "pt": "9",
+      "en": "nine",
+      "pronuncia": "náin"
+    },
+    {
+      "pt": "10",
+      "en": "ten",
+      "pronuncia": "tén"
+    },
+    {
+      "pt": "11",
+      "en": "eleven",
+      "pronuncia": "i-LÉ-vên"
+    },
+    {
+      "pt": "12",
+      "en": "twelve",
+      "pronuncia": "tuélv"
+    },
+    {
+      "pt": "13",
+      "en": "thirteen",
+      "pronuncia": "thêr-TÍN"
+    },
+    {
+      "pt": "15",
+      "en": "fifteen",
+      "pronuncia": "fif-TÍN"
+    },
+    {
+      "pt": "20",
+      "en": "twenty",
+      "pronuncia": "TUÉN-ti"
+    },
+    {
+      "pt": "30",
+      "en": "thirty",
+      "pronuncia": "THÊR-ti"
+    },
+    {
+      "pt": "50",
+      "en": "fifty",
+      "pronuncia": "FÍF-ti"
+    },
+    {
+      "pt": "100",
+      "en": "one hundred",
+      "pronuncia": "uân RRÂN-drêd"
+    },
+    {
+      "pt": "1.000",
+      "en": "one thousand",
+      "pronuncia": "uân THÁU-zênd"
+    },
+    {
+      "pt": "2.000",
+      "en": "two thousand",
+      "pronuncia": "tu THÁU-zênd"
+    },
+    {
+      "pt": "5.000",
+      "en": "five thousand",
+      "pronuncia": "fáiv THÁU-zênd"
+    },
+    {
+      "pt": "10.000",
+      "en": "ten thousand",
+      "pronuncia": "tén THÁU-zênd"
+    }
+  ],
+  "observacaoNumeros": "Cuidado com thirteen e thirty. Em -teen, a força está no final (thir-TEEN). Em -ty, a força está no começo (THIR-ty).",
+  "dinheiro": [
+    {
+      "pt": "Tenho cerca de dois mil dólares.",
+      "en": "I have about two thousand dollars.",
+      "pronuncia": "ái rrév a-BÁUT tu THÁU-zênd DÓ-lêrs"
+    },
+    {
+      "pt": "Tenho quinhentos dólares em dinheiro.",
+      "en": "I have five hundred dollars in cash.",
+      "pronuncia": "ái rrév fáiv RRÂN-drêd DÓ-lêrs in quésh"
+    },
+    {
+      "pt": "Tenho dois cartões de crédito.",
+      "en": "I have two credit cards.",
+      "pronuncia": "ái rrév tu CRÉ-dit cárds"
+    }
+  ],
+  "parentesco": [
+    {
+      "pt": "irmã",
+      "en": "sister",
+      "pronuncia": "SIS-tér"
+    },
+    {
+      "pt": "irmão",
+      "en": "brother",
+      "pronuncia": "BRÂ-dhêr"
+    },
+    {
+      "pt": "mãe",
+      "en": "mother",
+      "pronuncia": "MÂ-dhêr"
+    },
+    {
+      "pt": "pai",
+      "en": "father",
+      "pronuncia": "FÁ-dhêr"
+    },
+    {
+      "pt": "esposa",
+      "en": "wife",
+      "pronuncia": "uáif"
+    },
+    {
+      "pt": "marido",
+      "en": "husband",
+      "pronuncia": "RRÂZ-bênd"
+    },
+    {
+      "pt": "filho",
+      "en": "son",
+      "pronuncia": "sân"
+    },
+    {
+      "pt": "filha",
+      "en": "daughter",
+      "pronuncia": "DÓ-têr"
+    },
+    {
+      "pt": "amigo(a)",
+      "en": "friend",
+      "pronuncia": "frénd"
+    },
+    {
+      "pt": "primo(a)",
+      "en": "cousin",
+      "pronuncia": "CÂ-zên"
+    },
+    {
+      "pt": "tio",
+      "en": "uncle",
+      "pronuncia": "ÂN-côl"
+    },
+    {
+      "pt": "tia",
+      "en": "aunt",
+      "pronuncia": "ént"
+    }
+  ],
+  "profissoes": [
+    {
+      "pt": "professor(a)",
+      "en": "teacher",
+      "pronuncia": "TÍ-tchêr"
+    },
+    {
+      "pt": "engenheiro(a)",
+      "en": "engineer",
+      "pronuncia": "én-dji-NÍR"
+    },
+    {
+      "pt": "enfermeiro(a)",
+      "en": "nurse",
+      "pronuncia": "nêrss"
+    },
+    {
+      "pt": "contador(a)",
+      "en": "accountant",
+      "pronuncia": "a-CÁU-tênt"
+    },
+    {
+      "pt": "vendedor(a)",
+      "en": "salesperson",
+      "pronuncia": "SÊILS-pêr-sôn"
+    },
+    {
+      "pt": "motorista",
+      "en": "driver",
+      "pronuncia": "DRÁI-vêr"
+    },
+    {
+      "pt": "advogado(a)",
+      "en": "lawyer",
+      "pronuncia": "LÓ-iêr"
+    },
+    {
+      "pt": "médico(a)",
+      "en": "doctor",
+      "pronuncia": "DÓC-têr"
+    },
+    {
+      "pt": "estudante",
+      "en": "student",
+      "pronuncia": "STIÚ-dênt"
+    },
+    {
+      "pt": "dono(a) de negócio",
+      "en": "business owner",
+      "pronuncia": "BIZ-nês ÔU-nêr"
+    },
+    {
+      "pt": "autônomo(a)",
+      "en": "self-employed",
+      "pronuncia": "sélf-im-PLÓIDD"
+    },
+    {
+      "pt": "aposentado(a)",
+      "en": "retired",
+      "pronuncia": "ri-TÁI-êrD"
+    }
+  ],
+  "checagemFinal": [
+    "Datas do cartão = datas da passagem de volta",
+    "Nome da hospedagem e endereço = reserva",
+    "Valor em dinheiro é verdadeiro e aproximado",
+    "Cartão salvo no celular e impresso",
+    "Li as datas e o valor em voz alta 3 vezes",
+    "Sei dizer em inglês o meu motivo, o meu hotel e a minha profissão"
+  ]
+}
